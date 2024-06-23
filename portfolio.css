@@ -1,0 +1,95 @@
+*{
+    background-color: #1a2130;
+    margin:none;
+    color:#ebf4f6;
+    font-size:20px;   
+}
+.head,u{
+    font-size:60px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color:#37b7c3;
+
+}
+.border1{
+    border:5px double aqua;
+}
+.border{
+    border:2px solid transparent;
+}
+.border:hover{
+    border:2px solid white;
+}
+.img{
+    display: flex;
+}
+.img1{
+    border:2px solid black;
+    height: 300px;
+    width: 240px;
+    background-image: url("new.jpg");
+    background-size: cover;
+    border-radius:0px 80px 0px 80px;
+    margin-top:100px;
+    margin-left:100px;
+}
+.top{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.intro{
+    margin-left:50px;
+    margin-top:100px;
+}
+.name{
+    font-size:3rem;
+    color:aqua;
+    margin-bottom:20px;
+}
+.stud{
+    font-size:30px;
+    margin:0px;
+    color:#37b7c3;
+}
+.msg{
+    font-size: 25px;
+}
+.extra{
+    border:none;
+    height: 200px;
+    
+    background-color: #1a2130;
+}
+.career1{
+    color:aqua;
+    font-size:50px;
+    margin-bottom: 100px;
+    margin-left:100px;
+}
+.career-msg{
+    margin:0px 100px 0px 100px;
+    font-size: 25px;
+    height: 100px;
+}
+.qualification{
+    margin:20px 100px 0px 100px;
+    font-size: 25px;
+    height: 30px;
+}
+a{
+    font-size: 25px;
+    color:#65d461;
+    text-decoration:none;
+
+}
+.differ{
+    margin:0px 50px 0px 50px;
+}
+.icon{
+    font-size: 27px;
+
+}
